@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  
+  ## My Activity
+  
+  <a href="https://github.com/adedushi">
+    <img width=450 height=170 align="center" alt="adedushi" src="https://github-readme-stats.vercel.app/api?username=adedushi&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/adedushi">
+    <img align="center" alt="adedushi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedushi&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
+<div>
