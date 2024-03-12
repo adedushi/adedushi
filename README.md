@@ -20,6 +20,9 @@ Here are some ideas to get you started:
     <a href="mailto:albert@adedushi.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
+    <a href="https://adedushi.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+    </a>
     <a href="https://www.linkedin.com/in/adedushi/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIN"/>
     </a>
@@ -27,9 +30,6 @@ Here are some ideas to get you started:
 
 ### My Activity
 <div display="block">
-  <a href="https://github.com/adedushi">
-    <img width=450 height=170 align="center" alt="adedushi" src="https://github-readme-stats.vercel.app/api?username=adedushi&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
   <a href="https://github.com/adedushi">
     <img align="center" alt="adedushi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedushi&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
